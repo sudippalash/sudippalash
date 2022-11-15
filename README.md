@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi I am Sudip Palash 👋
+### I am a Full stack developer
 
-<!--
-**sudippalash/sudippalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍ About me
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="sudippalash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudippalash&show_icons=true&count_private=true&theme=algolia" width="300px" /></a>
 
-Here are some ideas to get you started:
+- 💻 A passionate self-taught Full stack developer
+- 🌱 Currently learning web3
+- 📫 How to reach me: palash.sudip@gmail.com
+- :globe_with_meridians: Personal website [link](https://sudip.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### 🛠️ My Skills
+ - ##### Backend Languages & Frameworks:
+   PHP OOP, Laravel, CodeIgniter & CakePHP. 
+
+- #### Databases:
+  MySql, PostgreSQL, MongoDB & Firebase Database
+
+- #### Frontend Languages & Frameworks:
+  Vue.js, ReactJS, JavaScript, jQuery, JavaScript, CSS3, HTML5 & Bootstrap
+
+- #### Servers:
+  VPS server setup & maintenance & cPanel
+
+- #### 💻 Most Used
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudippalash&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sudippalash" />
